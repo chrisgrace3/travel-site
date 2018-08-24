@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/chrisgrace3/travel-site#readme",
   "dependencies": {
-    "jquery": "^3.3.1",
-    "normalize.css": "^8.0.0"
+    "jquery": "^2.2.3",
+    "normalize.css": "^4.1.1"
   }
 }
